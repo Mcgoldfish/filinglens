@@ -1,5 +1,7 @@
 # Filing Lens
 
+[Open FilingLens](https://mcgoldfish.github.io/filinglens/) · [Source repository](https://github.com/Mcgoldfish/filinglens)
+
 Standalone public repository prepared from the current McQuerious edition. The portfolio remains a project guide; this repository contains the application, search worker, indexed collection and ingestion tools. Run `npm test` and `npm run dev` (Node.js 20+). To rebuild the collection, install `requirements.txt` with Python first. No open-source license has been selected; public visibility does not grant a general source-code reuse license. Source annual reports retain their original ownership and source links.
 
 A search-first annual report website inspired by a simple topic-search workflow.
