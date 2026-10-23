@@ -3,3 +3,5 @@
 html[data-theme="dark"]{--surface-white:#242e29}html[data-theme="dark"] svg text{fill:#c9d5cb}html[data-theme="dark"] svg [stroke="#42664e"]{stroke:#a4c59a}html[data-theme="dark"] svg [fill="#42664e"]{fill:#a4c59a}html[data-theme="dark"] svg [stroke="#d7ddcf"]{stroke:#48574c}
 
 .filing-cover-art .cover-dark{display:none}html[data-theme="dark"] .filing-cover-art .cover-light{display:none}html[data-theme="dark"] .filing-cover-art .cover-dark{display:block}
+
+.theme-toggle{font-family:"Source Sans 3",sans-serif}
